@@ -1,40 +1,36 @@
-# ParisdekiBebeg Bildirim Eklentisi
+# ParisdekiBebeg Notification Extension
 
-**ParisdekiBebeg Bildirim Eklentisi**, [kick.com](https://kick.com)'da ParisdekiBebeg'in canlı yayına başladığını size bildiren bir Chrome eklentisidir. Eklenti, ParisdekiBebeg’in yayına geçtiği anı kaçırmamanız için bir bildirim gönderir ve yayın detaylarını gösterir.
+**ParisdekiBebeg Notification Extension** is a Chrome extension that notifies you when ParisdekiBebeg goes live on [kick.com](https://kick.com). The extension sends you a notification so you never miss when ParisdekiBebeg starts streaming and provides details about the stream.
 
-## Özellikler
+## Features
 
-- ParisdekiBebeg canlı yayına başladığında bildirim gönderir.
-- Yayınla ilgili şu bilgileri sağlar:
-  - İzleyici sayısı
-  - Takipçi sayısı
-  - Yayın başlığı ve detayları
+- Sends notifications when ParisdekiBebeg goes live.
+- Provides the following information about the stream:
+  - Viewer count
+  - Follower count
+  - Stream title and details
 
-## Kurulum
+## Installation
 
-1. [Chrome Web Mağazası](https://chrome.google.com/webstore) üzerinden eklentiyi indirip yükleyin.
-2. Yükleme tamamlandıktan sonra, eklenti tarayıcınızda etkinleştirilmiş olacaktır.
-3. ParisdekiBebeg canlı yayına başladığında bildirim alırsınız.
+1. Download and install the extension from the [Chrome Web Store](https://chrome.google.com/webstore).
+2. Once installed, the extension will be activated in your browser.
+3. You will receive notifications when ParisdekiBebeg goes live.
 
-## Kullanım
+## Usage
 
-Eklenti yüklendikten sonra, ParisdekiBebeg’in [kick.com](https://kick.com) üzerindeki canlı yayınlarını takip etmek için ekstra bir şey yapmanıza gerek yoktur. Eklenti sizi otomatik olarak bilgilendirecektir.
+After the extension is installed, there’s nothing extra you need to do to follow ParisdekiBebeg's live streams on [kick.com](https://kick.com). The extension will automatically notify you.
 
-## İzinler
+## Permissions
 
-Bu eklenti şu izinlere ihtiyaç duyar:
-- `notifications`: Bildirim göndermek için.
-- `activeTab`: Kick.com sayfasını izlemek için.
-- `storage`: Kullanıcı ayarlarını kaydetmek için.
+This extension requires the following permissions:
+- `notifications`: To send notifications.
+- `activeTab`: To monitor the kick.com page.
+- `storage`: To save user settings.
 
-## Gizlilik Politikası
+## Privacy Policy
 
-Bu eklenti, kullanıcıların kişisel verilerini toplamaz veya üçüncü şahıslarla paylaşmaz. Daha fazla bilgi için [gizlilik politikamızı](https://your-privacy-policy-link.com) ziyaret edebilirsiniz.
+This extension does not collect or share personal user data. For more information, please visit our [privacy policy](https://your-privacy-policy-link.com).
 
-## Katkıda Bulunma
+## Contributing
 
-Bu projeye katkıda bulunmak isterseniz, lütfen [GitHub repo](https://github.com/your-repo-link) adresinden bir pull request gönderin. Her türlü katkı ve öneriye açığız!
-
-## Lisans
-
-Bu proje [MIT Lisansı](https://opensource.org/licenses/MIT) altında lisanslanmıştır.
+If you would like to contribute to this project, please submit a pull request at our [GitHub repo](https://github.com/your-repo-link). We welcome all contributions and suggestions!
