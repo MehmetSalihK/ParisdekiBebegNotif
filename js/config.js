@@ -3,11 +3,11 @@ const config = {
         channel_name: "parisdekibebeg" 
     },
     instagram: {
-        accessToken: "IGQWRQanA3TlV5TVpwOGx0X2t5TmFmZAGY1cm1JeWlZAQnZAUV1NYSW9sQlMyRFF5MVhFalE0V0stdlF3MHlwMFQ4VlY5UXNETkpfMWNPY1pHd1N0cFpqUFFZATmlocDRuenVHWnRqbU84T1MwX2ZAZAekVCbnRDOVZAXM2cZD"
+        accessToken: "*******" //keyInstagram
     },
     youtube: {
-        key: "AIzaSyDy1Hut2L9bucK7CtvF8XQcfxRjK5DyZqE",
-        channelId: "UCsmMFq0abjOhNc1fuN72s3Q"
+        key: "*******", //keyYoutube
+        channelId: "*******" //idInstagram
     },
     social: {
         youtube: "https://www.youtube.com/@parisdekibebeg480",
